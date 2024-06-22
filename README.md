@@ -16,7 +16,7 @@ At Nexus Prime, we architect a paradigm of technological convergence, fostering 
 This repository contains the source code and resources for our blogging platform, designed to share knowledge, engage with the community, and document our journey of continuous advancement. Here, you'll find:
 
 - **Blog Content Management**: Tools and scripts for managing blog posts, categories, and tags.
-- **Frontend Development**: React.js, JavaScript, and TypeScript code for the website's user interface.
+- **Frontend Development**: Tailwind CSS, React.js, JavaScript, and TypeScript code for the website's user interface.
 - **Backend Development**: Server-side code, node.js, express.js, MangoDB, firebase and APIs supporting the blog's functionality.
 - **Deployment Scripts**: Instructions and scripts for deploying the blog on various platforms.
 
