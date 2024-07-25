@@ -24,4 +24,4 @@ Join us as we document and share the stories of our technological journey, advan
 
 Happy Coding 😀
 
-Happy Machine Learning 🤖
+Happy Deep Learning 🤖
